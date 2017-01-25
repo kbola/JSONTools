@@ -7,7 +7,7 @@
 //  Copyright (C) 2014 Gregory Combs [gcombs at gmail]
 //  See LICENSE.txt for details.
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 #import "NSArray+JSONPointer.h"
 #import "NSDictionary+JSONPointer.h"
 
